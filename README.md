@@ -3,7 +3,8 @@ Solution to exercises of Discrete Mathematics.
 This is the solution to the problem sets given by Prof. Dominik Scheder of SJTU on Coursera as in the Srping of 2018.
 The level of the course is advanced Undergraduate.
 All the errors are mine.
-
+# Licence
+CC-BY-NC-ND. This work is licensed under a Creative Commons Attribution + Noncommercial + NoDerivatives 4.0 International License.
 ---
 # Sylabus
 ## WEEK 1
